@@ -37,6 +37,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Bird.cs" />
+     <Compile Include="Assets\Scripts\Parallax.cs" />
      <None Include="Assets\FlappyBirdAssets\Imagens\Fonte.txt" />
      <None Include="Assets\FlappyBirdAssets\Fonte\Fonte.txt" />
      <None Include="Assets\FlappyBirdAssets\Musica\Fonte.txt" />
